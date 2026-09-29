@@ -1,5 +1,7 @@
 # The Forbidden Library
-See various information about banned books.
+See various information about banned books through a CLI and website. A collaborative project for CS257 built using Python & Flask, PostgreSQL, HTML, CSS, and JavaScript.
+<img width="1696" height="947" alt="S25-257-BannedBooks" src="https://github.com/user-attachments/assets/a8226cf8-b6f2-4620-9f07-d8834c86b445" />
+
 
 ## Usage
 
